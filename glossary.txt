@@ -3,13 +3,13 @@ Complete at least TWO definitions in your own words (lab Part 2).
 Then add your name and GitHub username on the last line.
 
 Import:
-  Your definition:
+  Your definition: Copies a whole repository (all commits, branches and tags) from any Git host into a brand-new repository in my GitHub account, with no link back to where it came from.
 
 Clone:
-  Your definition:
+  Your definition: Downloads a repository from GitHub to my own computer and remembers it as origin, so I can work locally and push back.
 
 Fork:
-  Your definition:
+  Your definition: Makes my own copy of someone else's GitHub repository in my account that stays linked to the original, so I can send changes back with a pull request.
 
 Branch:
   Your definition:
@@ -23,4 +23,4 @@ Merge:
 Upstream tracking (git push -u):
   Your definition:
 
-Completed by:
+Completed by: Evan (bvbz)
